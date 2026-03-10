@@ -66,13 +66,6 @@ Built a scalable **RESTful backend system** using **Java, Spring Boot, and Postg
 
 ---
 
-## 📊 GitHub Stats
-
-![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith2124&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalith2124&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
