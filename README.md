@@ -1,60 +1,68 @@
 # Hi there 👋 I'm Lalith
 
-🚀 Aspiring **Java Backend Developer**
-
-I enjoy building scalable backend applications using **Java and Spring Boot** and continuously improving my **Data Structures and Algorithms** skills.
+💻 Java Backend Developer | Spring Boot | SQL | REST APIs  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Spring Boot Backend Projects**
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-- 💻 Interested in **Backend Development**
-- 📚 Exploring **Spring Security, REST APIs, and System Design**
-- 🎯 Goal: Become a **Software Development Engineer**
+- 🎓 Aspiring **Java Backend Developer**
+- 🔭 Currently building **Spring Boot backend applications**
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 🤖 Exploring **AI tools and integrating intelligent features into applications**
+- ☁️ Learning **AWS cloud services and backend deployments**
+- 🚀 Goal: Become a **Software Development Engineer (SDE)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 - Java
 - SQL
 - JavaScript
 
-**Backend**
+### Backend
 - Spring Boot
 - Spring Security
 - REST APIs
 
-**Frontend**
+### Frontend
 - HTML
 - CSS
 - JavaScript
+- Reactjs
 
-**Database**
+### Database
 - PostgreSQL
 - MySQL
+- AWS RDS
 
-**Tools**
-- Git
-- GitHub
+### Cloud & DevOps
+- AWS (RDS)
+- Application deployment
+- Git & GitHub
+
+### Tools
 - Postman
 - Swagger
+- Maven
 
 ---
 
-## 🚀 Projects
+## 📌 Projects
 
 ### 🛒 E-Commerce Backend API
-- Built a **RESTful backend application using Java and Spring Boot**
-- Implemented **JWT authentication and role-based authorization**
-- Integrated **PostgreSQL with Spring Data JPA**
-- Documented APIs using **Swagger**
+Built a scalable **RESTful backend system** using **Java, Spring Boot, and PostgreSQL** with **JWT authentication and Swagger documentation**.
 
-🔗 Repository  
-https://github.com/lalith2124/sb-ecom
+**Key Highlights**
+- Implemented secure **authentication and authorization**
+- Integrated **PostgreSQL database**
+- Explored **AWS RDS for database deployment**
+- Documented APIs using **Swagger**
+- Designed scalable backend architecture
+
+🔗 https://github.com/lalith2124/sb-ecom
 
 ---
 
@@ -62,12 +70,15 @@ https://github.com/lalith2124/sb-ecom
 
 ![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith2124&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalith2124&layout=compact)
+
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/lalith2124
-- LinkedIn: https://www.linkedin.com/in/lalith-k-121ab428b
+- LinkedIn:https://www.linkedin.com/in/lalith-k-121ab428b/
+
 ---
 
-⭐ Always learning and building new things.
+⭐ Passionate about **Backend Development, Cloud Deployment, and AI-powered applications**.
