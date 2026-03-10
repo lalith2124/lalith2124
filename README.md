@@ -67,8 +67,7 @@ https://github.com/lalith2124/sb-ecom
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/lalith2124
-- LinkedIn: Add your LinkedIn link here
-
+- LinkedIn: https://www.linkedin.com/in/lalith-k-121ab428b
 ---
 
 ⭐ Always learning and building new things.
