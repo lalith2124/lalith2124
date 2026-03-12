@@ -24,7 +24,7 @@ public class Lalith {
 
     private final String role       = "Aspiring Software Development Engineer";
     private final String focus      = "Java Backend Development";
-    private final String[] learning = {"Data Structures & Algorithms", "AWS Cloud", "AI Integration"};
+    private final String[] learning = {"Backend Development", "Data Structures & Algorithms", "AWS Cloud", "AI Integration"};
     private final String goal       = "Build systems that scale 🚀";
 
     public String getCurrentlyBuilding() {
